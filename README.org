@@ -4,5 +4,5 @@ The one keybinding here just runs the function "emoji"
 * Installing
 To install you simply put in your config
 #+BEGIN_SRC emacs-lisp
-(load-file "~/helm-emoji/helm-emoji.el")
+(load-file "~/Helm-Emoji.el/helm-emoji.el")
 #+END_SRC
