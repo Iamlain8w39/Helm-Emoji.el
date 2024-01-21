@@ -104,7 +104,7 @@
                                ("🤬 face with symbols on mouth" . 🤬)
                                ("😈 smiling face with horns" . 😈)
                                ("👿 angry face with horns" . 👿)
-                 n              ("💀 skull" . 💀)
+                               ("💀 skull" . 💀)
                                ("☠️ skull and crossbones" . ☠️)
                                ("💩 pile of poo" . 💩)
                                ("🤡 clown face" . 🤡)
