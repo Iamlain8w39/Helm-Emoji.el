@@ -1,6 +1,6 @@
 This is so simple this is almost no need for any documentation. Anyways, this just gives you a list of emojis in helm that it will then insert when the function "emoji" is ran.
 * Keybinding
-The one keybinding here just runs the function "emoji"
+C-c e is the only keybinding here just runs the function "emoji". 
 * Installing
 To install you simply put in your config
 #+BEGIN_SRC emacs-lisp
