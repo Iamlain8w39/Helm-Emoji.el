@@ -104,7 +104,7 @@
                                ("🤬 face with symbols on mouth" . 🤬)
                                ("😈 smiling face with horns" . 😈)
                                ("👿 angry face with horns" . 👿)
-                               ("💀 skull" . 💀)
+                 n              ("💀 skull" . 💀)
                                ("☠️ skull and crossbones" . ☠️)
                                ("💩 pile of poo" . 💩)
                                ("🤡 clown face" . 🤡)
@@ -1281,7 +1281,7 @@
                                ("©️ copyright" . ©️)
                                ("®️ registered" . ®️)
                                ("™️ trade mark" . ™️)
-                               ;; cut the # emoji
+;; cut the # emoji
                                ("*️⃣ keycap: *" . *️⃣)
                                ("0️⃣ keycap: 0" . 0️⃣)
                                ("1️⃣ keycap: 1" . 1️⃣)
@@ -1632,9 +1632,12 @@
                                ("🇿🇼 flag: Zimbabwe" . 🇿🇼)
                                ("🏴󠁧󠁢󠁥󠁮󠁧󠁿 flag: England" . 🏴󠁧󠁢󠁥󠁮󠁧󠁿)
                                ("🏴󠁧󠁢󠁳󠁣󠁴󠁿 flag: Scotland" . 🏴󠁧󠁢󠁳󠁣󠁴󠁿)
-                               ("🏴󠁧󠁢󠁷󠁬󠁳󠁿 flag: Wales" . 🏴󠁧󠁢󠁷󠁬󠁳󠁿)))
-                                     :resume 'noresume
-                                     :buffer "*emojis*"))))
+                               ("🏴󠁧󠁢󠁷󠁬󠁳󠁿 flag: Wales" . 🏴󠁧󠁢󠁷󠁬󠁳󠁿)
+;; Had to add in pride flag emojis
+			       ("🏳️‍🌈 flag: Gay Rainbow" . 🏳️‍🌈)
+			       ("🏳️‍⚧️ flag: Transgender" . 🏳️‍⚧️)))
+                  :resume 'noresume
+                  :buffer "*emojis*"))))
 
 
 
