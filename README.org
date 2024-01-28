@@ -1,4 +1,4 @@
-This is so simple this is almost no need for any documentation. Anyways, this just gives you a list of emojis in helm that it will then insert when the function "emoji" is ran.
+This is so simple this is almost no need for any documentation. Anyways, this just gives you a list of emojis in helm that it will then insert when the function "emoji" is ran. Here is a video on it https://www.youtube.com/watch?v=NgOaveOtVd8
 * Keybinding
 C-c e is the only keybinding here just runs the function "emoji". 
 * Installing
